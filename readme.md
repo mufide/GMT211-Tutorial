@@ -7,7 +7,7 @@ Git is a version control system that tracks changes in files such as code, text,
 ### 1a. Download Git
 Download the appropriate Git version for your computer from the "Standalone Installer" section at this link: [Git Download](https://git-scm.com/downloads)
 
-![Git Download](https://github.com/mufide/GMT211-Tutorial/blob/master/img/git-download.png)
+![Git Download](/img/git-download.png)
 
 ### 1b. Install Git
 Proceed with the default installation settings. However, as a recommendation, you may choose the "Use OpenSSL library" option during installation.
