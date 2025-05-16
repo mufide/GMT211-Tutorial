@@ -82,7 +82,7 @@ git remote  # Check the configured remote
 Use the “push” command to push data from the local repository to the remote repository (github). Here, “master” also represents the master branch on github. You can only use “git push” for future pushes.
 
 ```sh
-git push -u origin master  # Push to the master branch on GitHub
+git push -u origin main  # Push to the main branch on GitHub
 ```
 
 ![Git Push](https://github.com/mufide/GMT211-Tutorial/blob/master/img/git-push.png)
